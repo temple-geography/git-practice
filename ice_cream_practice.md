@@ -1,7 +1,7 @@
 # Best Ice Cream Flavors
 
- 1. Strawberry
- 2. Pistachio
- 3. Rum Raisin
- 4. Cotton Candy
- 5. Butter Pecan
+ 1. Vanilla
+ 2. Butter Pecan
+ 3. Strawberry
+ 4. Chocolate
+ 5. Cookie Dough
