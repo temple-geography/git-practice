@@ -1,3 +1,11 @@
 Opportunities to Explore What Drives You and Experiences to Help You Succeed
 
 Four percent of universities are classified as R1 institutions, and Temple University is one of them. We are Philadelphia’s only public university, and we are a global center of academic excellence. We believe in the power of an accessible education that sparks positive change. Through hands-on learning experiences and mentorships with world-class faculty, our diverse, vibrant student body become leaders who challenge the status quo and play a major role in changing the world for the better. 
+
+First, you need to get your hands on a SODIMM rams stick. You can either buy 4, 8 or 16 GB. So in combination with the 8 GB onboard memory that will give you a total of 12, 16 or 24 GB.
+
+I went with a 16 GB stick because it wasn't that much more expensive than the 8 GB stick.
+
+For the speed choose either 2933 MHz or 3200 MHz if it's easier to get your hands on depending where you live. Ram that' slower than 2933 MHz will also make the onboard RAM slower (the one that's already in you computer is 2933 MHz).
+
+Adding faster RAM won't make any improvement, as it's speed will be limited to 2933 MHz by the onboard memory.
