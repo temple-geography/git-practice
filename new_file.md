@@ -1,3 +1,3 @@
 Add some text.
 
-me sew smrt
+I'm so smart
