@@ -1,3 +1,3 @@
 Add some text.
 
-I'm sur I kan spel bettr then yoo
+I'm sure I can spell better than you!
